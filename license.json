@@ -1,3 +1,10 @@
 {
-    "allowed_users": []
+  "allowed_users": [
+    {
+      "username": "hj101",
+      "ip": "210.120.6.116",
+      "hwid": "2EE71ED8-9C66-BAFE-8E97-FC3497693E7F",
+      "license": "PENDING"
+    }
+  ]
 }
