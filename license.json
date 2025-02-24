@@ -1,34 +1,5 @@
 {
   "allowed_users": [
-    {
-      "username": "hj101",
-      "ip": "210.120.6.116",
-      "hwid": "2EE71ED8-9C66-BAFE-8E97-FC3497693E7F",
-      "license": "PENDING"
-    },
-    {
-      "username": "DESKTOP-C7HBQNC",
-      "ip": "210.120.6.116",
-      "hwid": "System Serial Number",
-      "license": "PENDING"
-    },
-    {
-      "username": "DESKTOP-C7HBQNC",
-      "ip": "210.120.6.116",
-      "hwid": "210382480900220",
-      "license": "PENDING"
-    },
-    {
-      "username": "DESKTOP-C7HBQNC",
-      "ip": "210.120.6.116",
-      "hwid": "178BFBFF00A20F10",
-      "license": "PENDING"
-    },
-    {
-      "username": "DESKTOP-C7HBQNC",
-      "ip": "210.120.6.116",
-      "hwid": "178BFBFF00A20F10-2EE71ED8-9C66-BAFE-8E97-FC3497693E7F",
-      "license": "PENDING"
-    }
+    
   ]
 }
