@@ -9,6 +9,16 @@
       "cpu_id": "178BFBFF00A20F10",
       "system_uuid": "2EE71ED8-9C66-BAFE-8E97-FC3497693E7F",
       "license": "PENDING"
+    },
+    {
+      "username": "hpnation2",
+      "email": "미입력",
+      "serial_key": "XYZ987-MNO654-PQR321",
+      "ip": "210.120.6.116",
+      "hwid": "178BFBFF00A20F10-2EE71ED8-9C66-BAFE-8E97-FC3497693E7F",
+      "cpu_id": "178BFBFF00A20F10",
+      "system_uuid": "2EE71ED8-9C66-BAFE-8E97-FC3497693E7F",
+      "license": "ACTIVE"
     }
   ]
 }
