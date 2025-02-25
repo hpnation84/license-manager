@@ -1,6 +1,6 @@
 {
   "valid_keys": [
-    "ABC123-DEF456-GHI789",
-    "XYZ987-MNO654-PQR321"
+    { "key": "ABC123-DEF456-GHI789", "check": false },
+    { "key": "XYZ987-MNO654-PQR321", "check": false }
   ]
 }
