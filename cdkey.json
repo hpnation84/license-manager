@@ -1,6 +1,16 @@
 {
   "valid_keys": [
-    { "key": "ABC123-DEF456-GHI789", "check": false },
-    { "key": "XYZ987-MNO654-PQR321", "check": false }
+    {
+      "key": "ABC123-DEF456-GHI789",
+      "check": false
+    },
+    {
+      "key": "XYZ987-MNO654-PQR321",
+      "check": false
+    },
+    {
+      "key": "FURD2I-BBSE2R-Y5VJTC",
+      "check": false
+    }
   ]
 }
