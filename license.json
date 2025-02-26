@@ -1,5 +1,5 @@
 {
-  "allowed_users": [    
+  "allowed_users": [
     {
       "username": "hpnation2",
       "email": "미입력",
@@ -18,6 +18,16 @@
       "hwid": "BFEBFBFF000906ED-D9C28570-FE4A-0000-0000-000000000000",
       "cpu_id": "BFEBFBFF000906ED",
       "system_uuid": "D9C28570-FE4A-0000-0000-000000000000",
+      "license": "ACTIVE"
+    },
+    {
+      "username": "hpnation",
+      "email": "hj1014@ictway.co.kr",
+      "serial_key": "ABC123-DEF456-GHI789",
+      "ip": "210.120.6.116",
+      "hwid": "178BFBFF00A20F10-2EE71ED8-9C66-BAFE-8E97-FC3497693E7F",
+      "cpu_id": "178BFBFF00A20F10",
+      "system_uuid": "2EE71ED8-9C66-BAFE-8E97-FC3497693E7F",
       "license": "ACTIVE"
     }
   ]
