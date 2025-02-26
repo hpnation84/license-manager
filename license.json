@@ -29,6 +29,16 @@
       "cpu_id": "178BFBFF00A20F10",
       "system_uuid": "2EE71ED8-9C66-BAFE-8E97-FC3497693E7F",
       "license": "ACTIVE"
+    },
+    {
+      "username": "jin",
+      "email": "jin@naver.com",
+      "serial_key": "ZJG7LM-OKY3YO-6472YM",
+      "ip": "121.131.138.106",
+      "hwid": "BFEBFBFF000906EC-00000000-0000-0000-0000-00D86151CA6A",
+      "cpu_id": "BFEBFBFF000906EC",
+      "system_uuid": "00000000-0000-0000-0000-00D86151CA6A",
+      "license": "ACTIVE"
     }
   ]
 }
