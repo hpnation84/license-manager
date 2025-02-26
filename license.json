@@ -19,6 +19,16 @@
       "cpu_id": "178BFBFF00A20F10",
       "system_uuid": "2EE71ED8-9C66-BAFE-8E97-FC3497693E7F",
       "license": "ACTIVE"
-    }    
+    },
+    {
+      "username": "KIM",
+      "email": "미입력",
+      "serial_key": "2BZFHY-5NO2LI-4FTK2Z",
+      "ip": "210.120.6.116",
+      "hwid": "BFEBFBFF000906ED-D9C28570-FE4A-0000-0000-000000000000",
+      "cpu_id": "BFEBFBFF000906ED",
+      "system_uuid": "D9C28570-FE4A-0000-0000-000000000000",
+      "license": "ACTIVE"
+    }
   ]
 }
