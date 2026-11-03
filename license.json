@@ -39,6 +39,16 @@
       "cpu_id": "BFEBFBFF000906EC",
       "system_uuid": "00000000-0000-0000-0000-00D86151CA6A",
       "license": "ACTIVE"
+    },
+    {
+      "username": "ictway",
+      "email": "미입력",
+      "serial_key": "DWTCT7-1G4JNB-6FD9E6",
+      "ip": "59.15.47.227",
+      "hwid": "BFEBFBFF000C0662-0FB352C9-47C7-5B0E-E371-30C599B20058",
+      "cpu_id": "BFEBFBFF000C0662",
+      "system_uuid": "0FB352C9-47C7-5B0E-E371-30C599B20058",
+      "license": "ACTIVE"
     }
   ]
 }
